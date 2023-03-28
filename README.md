@@ -26,10 +26,14 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderneto)](https://github.com/alexsanderneto/github-readme-stats)
 
 
 
-</div><br>
+
+
+</div>
+<br>
 <h2>Apaixonado por tecnologia desde meus 7 anos de idade!</h2>
 <br>
 <h1>"Nenhum esforço faz sentido, se você não acredita em si mesmo"</h1>
