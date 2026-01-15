@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svgsite:  )](https://alexsandernetodev.netlify.app/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-neto-13895b190/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexsande_ribeiro08)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexsander_ribeiro08)
 
 ![Alexsander GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsanderneto&show_icons=true&theme=transparent)
 
